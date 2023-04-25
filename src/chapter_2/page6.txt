@@ -1,3 +1,5 @@
 added directly on git hub
 
 does not supossed to be this way
+
+this needed more info
